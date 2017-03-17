@@ -8,4 +8,4 @@ webpack --watch
 
 ## Output
 
-![image](output.svg)
+![image](output.svg?raw=true)
